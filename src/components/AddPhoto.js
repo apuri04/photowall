@@ -10,7 +10,7 @@ class AddPhoto extends Component{
         e.preventDefault();
         let link = e.target.link.value;
         let description = e.target.description.value;
-        let posts= {id:0,
+        let posts= {id: new Date().getTime(),
             description: description,
             imageLink:link }
         this.props.onAddPhoto(posts)
