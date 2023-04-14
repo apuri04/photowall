@@ -1,6 +1,6 @@
 
 function Title(props){
-    return (<h2>{props.title}</h2>)
+    return (<h2 className="ts-heading">{props.title}</h2>)
 }
 // class Title extends Component {
 //     render(){
