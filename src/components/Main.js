@@ -47,7 +47,7 @@ render(){
     console.log(this.state.posts)
     return (<div>
         { 
-            <Route exact path="/" render={()=> (    
+            <Route exact path="/Photowall" render={()=> (    
                 <div>
                     <Title title={'Photowall'}/>
                     <PhotoWall posts={this.state.posts} onRemovePhoto={this.removePhoto} onNavigate = {this.navigate}/>
