@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/photowall/static/css/main.00b4d473.css",
+    "main.js": "/photowall/static/js/main.afe98d1e.js",
+    "index.html": "/photowall/index.html",
+    "main.00b4d473.css.map": "/photowall/static/css/main.00b4d473.css.map",
+    "main.afe98d1e.js.map": "/photowall/static/js/main.afe98d1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b4d473.css",
+    "static/js/main.afe98d1e.js"
+  ]
+}
