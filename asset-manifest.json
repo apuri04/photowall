@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/photowall/static/css/main.00b4d473.css",
-    "main.js": "/photowall/static/js/main.8779b3bf.js",
+    "main.js": "/photowall/static/js/main.df422f56.js",
     "index.html": "/photowall/index.html",
     "main.00b4d473.css.map": "/photowall/static/css/main.00b4d473.css.map",
-    "main.8779b3bf.js.map": "/photowall/static/js/main.8779b3bf.js.map"
+    "main.df422f56.js.map": "/photowall/static/js/main.df422f56.js.map"
   },
   "entrypoints": [
     "static/css/main.00b4d473.css",
-    "static/js/main.8779b3bf.js"
+    "static/js/main.df422f56.js"
   ]
 }
