@@ -368,5 +368,6 @@ button:hover,.button:hover, button:focus, .button:focus {
  margin: auto;
  text-align: center;
  font-style: italic;
+ margin: 10px;
 }
    
