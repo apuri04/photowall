@@ -57,7 +57,7 @@ render(){
         {
         <Route path = "/AddPhoto" render={({history})=><AddPhoto onAddPhoto={(addedPhoto) =>{
             this.addPhoto(addedPhoto)
-            history.push("/")
+            history.push("/Photowall")
         }}/>}></Route>
         }
     </div>)

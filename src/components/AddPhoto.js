@@ -18,7 +18,7 @@ class AddPhoto extends Component{
     render() {
         return (
             <div>
-                <h2 class="ts-heading">Add Photo here</h2>
+                <h2 className="ts-heading">Add Photo here</h2>
                 <div className="form">
                     <form onSubmit={this.addPhoto}>
                         <input type="text" placeholder="link" name="link"/>
